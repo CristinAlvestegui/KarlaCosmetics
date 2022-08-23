@@ -1,0 +1,163 @@
+.grid-make{
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.banner{
+    width: 100%;
+    height: 100%;
+}
+
+#fotopastel{
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+
+#sombrapastel{
+    grid-column-start: 1;
+    grid-row-start: 2;
+    grid-row-end: 2;
+}
+
+#fotorosa{
+    grid-column-start: 2;
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+
+#sombrarosa{
+    grid-column-start: 2;
+    grid-row-start: 2;
+    grid-row-end: 2;
+}
+
+#fotoazul{
+    grid-column-start: 3;
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+
+#sombrazul{
+    grid-column-start: 3;
+    grid-row-start: 2;
+    grid-row-end: 2;
+}
+
+#fotorosacobre{
+    grid-column-start: 1;
+    grid-row-start: 3;
+    grid-row-end: 3;
+}
+
+#sombrarosacobre{
+    grid-column-start: 1;
+    grid-row-start: 4;
+    grid-row-end: 4;
+}
+
+#fotolullaby{
+    grid-column-start: 2;
+    grid-row-start: 3;
+    grid-row-end: 3;
+}
+
+#sombralullaby{
+    grid-column-start: 2;
+    grid-row-start: 4;
+    grid-row-end: 4;
+}
+
+#fotoverde{
+    grid-column-start: 3;
+    grid-row-start: 3;
+    grid-row-end: 3;
+}
+
+#sombraverde{
+    grid-column-start: 3;
+    grid-row-start: 4;
+    grid-row-end: 4;
+}
+
+.grid-queri{
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.bannerdois{
+    width: 100%;
+    height: 100%;
+}
+
+#fotoGliter{
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+
+#gliterazul{
+    grid-column-start: 1;
+    grid-row-start: 2;
+    grid-row-end: 2;
+}
+
+#fotoGliterazulos{
+    grid-column-start: 2;
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+
+#gliterazulos{
+    grid-column-start: 2;
+    grid-row-start: 2;
+    grid-row-end: 2;
+}
+
+#fotoGliterosa{
+    grid-column-start: 3;
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+
+#gliterosa{
+    grid-column-start: 3;
+    grid-row-start: 2;
+    grid-row-end: 2;
+}
+
+#fotoGlitertd{
+    grid-column-start: 1;
+    grid-row-start: 3;
+    grid-row-end: 3;
+}
+
+#glitertudo{
+    grid-column-start: 1;
+    grid-row-start: 4;
+    grid-row-end: 4;
+}
+
+#fotoGliterverde{
+    grid-column-start: 2;
+    grid-row-start: 3;
+    grid-row-end: 3; 
+}
+
+#gliterverde{
+    grid-column-start: 2;
+    grid-row-start: 4;
+    grid-row-end: 4;
+}
+
+#fotoGliterroxo{
+    grid-column-start: 3;
+    grid-row-start: 3;
+    grid-row-end: 3;
+}
+
+#gliterroxo{
+    grid-column-start: 3;
+    grid-row-start: 4;
+    grid-row-end: 4;
+}
